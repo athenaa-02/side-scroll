@@ -1,0 +1,13 @@
+div.side_scroll {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  overflow-x: scroll;
+  gap: 20px;
+}
+
+/* @media screen and (min-width: 500px) {
+  div.side_scroll {
+    width: 500px;
+  }
+} */
